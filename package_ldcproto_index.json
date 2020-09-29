@@ -16,7 +16,7 @@
           "architecture": "samd",
           "version": "1.5.7",
           "category": "Contributed",
-          "url": "https://github.com/LDC-Engineering/protoboard_packages/whack-1.5.7.zip",
+          "url": "https://github.com/LDC-Engineering/protoboard_packages/whack-1.5.7.zip?raw=true",
           "archiveFileName": "whack-1.5.7.zip",
           "checksum": "SHA-256:d7e1beb95db8b00a805ee92d01f4eca30018dd02ec2933ab18affb83d125560a",
           "size": "6210533",
